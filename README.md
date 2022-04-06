@@ -1,0 +1,2 @@
+# GtiTutor
+Exercise git task
